@@ -1,1 +1,3 @@
-# movie-ratings-with-R
+### movie-ratings-with-R
+
+Visualisation task
